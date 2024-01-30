@@ -3,9 +3,12 @@
 	"author": "Zakir",
 	"description": "Simple project to learn node js",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example" : "^1.2.13"
 	},
 	"keywords": ["freecodecamp" , "learning" , "testing" , "node js"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
