@@ -3,8 +3,7 @@
 	"author": "Zakir",
 	"description": "Simple project to learn node js",
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example" : "^1.2.13"
+		"express": "^4.14.0"
 	},
 	"keywords": ["freecodecamp" , "learning" , "testing" , "node js"],
 	"license": "MIT",
